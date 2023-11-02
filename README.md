@@ -22,7 +22,7 @@
 ---
 
 ### :man_technologist: About Me :I’m a Final year grad student at IIIT Gwalior.
-- :telescope: I have expertise in Frontennd web development and deep learning technologies.
+- :telescope: I have expertise in Full stack web development and deep learning technologies.
 
 - :seedling: Exploring software engineering technologies.
 
