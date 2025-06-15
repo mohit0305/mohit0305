@@ -26,7 +26,7 @@
 
 - 🎓 I’m a graduate of IIIT Gwalior (Integrated BTech + MTech in Information Technology).
 - 🤖 Currently working as an **AI Engineer at Monotype**, focusing on deploying advanced multimodal models and LLM-based systems in production.
-- 🧠 Experienced in fine-tuning models like **ControlNet**, **Hi-SAM**, **GPT**, and **Siamese Networks** for real-world applications.
+- 🧠 Experienced in fine-tuning models like **Stable Diffusion ControlNet**, **Hi-SAM**, **GPT**, and  for real-world applications.
 - ☁️ Skilled in deploying ML workflows using **Azure**, **RunPod**, **Replicate**, and **Docker**.
 - 📝 Published research in medical report generation and UAV-based RL systems (Springer | ICIT-2022).
 - 🧪 Passionate about AI, multimodal reasoning, and scalable model serving.
